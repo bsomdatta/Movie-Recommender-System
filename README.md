@@ -22,4 +22,4 @@ Matplotlib / Seaborn (Data visualization)
 
 Flask (Web framework for user interface - optional)
 
-Google Colab Notebook (For data exploration and model training)
+
